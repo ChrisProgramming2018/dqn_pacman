@@ -1,1 +1,1 @@
-# dqn_pacman
+# dqn_freeway
